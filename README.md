@@ -4,6 +4,4 @@
 
 Link Figma thiết kế web: https://www.figma.com/design/9onqgKUvwZFrxvAsskMSdJ
 
-Link thư viện AOS (animation): https://github.com/michalsnik/aos.git
-
-Link demo web: https://lgkai.github.io/web-frontend_shine-smile/
+Link demo web:
